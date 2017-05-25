@@ -100,7 +100,3 @@ loadPower <- function(building, dateFrom, dateTo)
 }
 
 
-test2 <- function()
-{
-  print("OK!!")
-}
